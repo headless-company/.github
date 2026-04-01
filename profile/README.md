@@ -18,26 +18,26 @@ We work across three key stages:
 ### Plan
 
 Understand what you have, what you need, and what good looks like.
-	•	Content audits and modelling strategy
-	•	Platform and vendor selection
-	•	Architecture and workflow design
-	•	Governance and scalability planning
+*	Content audits and modelling strategy
+* 	Platform and vendor selection
+* 	Architecture and workflow design
+*	Governance and scalability planning
 
 ### Migrate
 
 Turn strategy into a working, scalable platform.
-	•	Content modelling and validation
-	•	Migration planning and automation
-	•	CMS implementation support
-	•	Delivery guidance across teams
+*	Content modelling and validation
+*	Migration planning and automation
+*	CMS implementation support
+*	Delivery guidance across teams
 
 ### Enable
 
 Make sure your platform actually works for your people.
-	•	Authoring experience design
-	•	Workflow optimisation
-	•	Team enablement and training
-	•	Long-term content and platform strategy
+*	Authoring experience design
+*	Workflow optimisation
+*	Team enablement and training
+*	Long-term content and platform strategy
 
 ⸻
 
@@ -47,10 +47,10 @@ Headless isn’t just a technical shift — it’s an organisational one.
 
 Most failures don’t come from the technology.
 They come from:
-	•	Poor content modelling decisions
-	•	Misaligned workflows
-	•	Lack of clarity between teams
-	•	Underestimating the human side of change
+*	Poor content modelling decisions
+*	Misaligned workflows
+*	Lack of clarity between teams
+*	Underestimating the human side of change
 
 We exist to fix that.
 
@@ -67,28 +67,28 @@ That’s why we’re building and maintaining tools to support better content mo
 CMMF is our approach to defining, visualising, and translating content models across platforms.
 
 It is designed to:
-	•	Provide a platform-agnostic representation of content models
-	•	Enable translation between CMS platforms
-	•	Support clear communication between technical and non-technical teams
-	•	Act as a foundation for tooling, automation, and validation
+*	Provide a platform-agnostic representation of content models
+*	Enable translation between CMS platforms
+*	Support clear communication between technical and non-technical teams
+*	Act as a foundation for tooling, automation, and validation
 
 Current tooling
-	•	Natural language → CMMF generator
+*	Natural language → CMMF generator
 Turn ideas into structured models quickly
-	•	CMMF → Mermaid renderer
+*	CMMF → Mermaid renderer
 Visualise content models for collaboration and documentation
-	•	(In progress) CMS connectors
+*	(In progress) CMS connectors
 Import/export models for platforms like Contentful, Sanity, and others
-	•	(Planned) Diagramming integrations
+*	(Planned) Diagramming integrations
 Export to tools like FigJam and Miro for team collaboration
 
 ⸻
 
 ## Our philosophy
 
-	•	Structure creates clarity
-	•	Clarity enables speed
-	•	Speed without clarity creates problems
+*	Structure creates clarity
+*	Clarity enables speed
+*	Speed without clarity creates problems
 
 Good content models are not just schemas — they are interfaces between teams.
 
@@ -96,10 +96,10 @@ Good content models are not just schemas — they are interfaces between teams.
 
 ## Who this is for
 
-	•	Teams planning a headless CMS migration
-	•	Organisations struggling with an existing implementation
-	•	Agencies delivering headless solutions at scale
-	•	Developers and strategists working on complex content systems
+*	Teams planning a headless CMS migration
+*	Organisations struggling with an existing implementation
+*	Agencies delivering headless solutions at scale
+*	Developers and strategists working on complex content systems
 
 ⸻
 
