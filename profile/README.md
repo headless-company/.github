@@ -19,8 +19,8 @@ We work across three key stages:
 
 Understand what you have, what you need, and what good looks like.
 *	Content audits and modelling strategy
-* 	Platform and vendor selection
-* 	Architecture and workflow design
+* Platform and vendor selection
+* Architecture and workflow design
 *	Governance and scalability planning
 
 ### Migrate
@@ -74,13 +74,13 @@ It is designed to:
 
 Current tooling
 *	Natural language → CMMF generator
-Turn ideas into structured models quickly
+  Turn ideas into structured models quickly
 *	CMMF → Mermaid renderer
-Visualise content models for collaboration and documentation
+  Visualise content models for collaboration and documentation
 *	(In progress) CMS connectors
-Import/export models for platforms like Contentful, Sanity, and others
+  Import/export models for platforms like Contentful, Sanity, and others
 *	(Planned) Diagramming integrations
-Export to tools like FigJam and Miro for team collaboration
+  Export to tools like FigJam and Miro for team collaboration
 
 ⸻
 
