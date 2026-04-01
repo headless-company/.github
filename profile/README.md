@@ -67,29 +67,28 @@ That’s why we’re building and maintaining tools to support better content mo
 CMMF is our approach to defining, visualising, and translating content models across platforms.
 
 It is designed to:
-
-•	Provide a platform-agnostic representation of content models
-•	Enable translation between CMS platforms
-•	Support clear communication between technical and non-technical teams
-•	Act as a foundation for tooling, automation, and validation
+	•	Provide a platform-agnostic representation of content models
+	•	Enable translation between CMS platforms
+	•	Support clear communication between technical and non-technical teams
+	•	Act as a foundation for tooling, automation, and validation
 
 Current tooling
-•	Natural language → CMMF generator
+	•	Natural language → CMMF generator
 Turn ideas into structured models quickly
-•	CMMF → Mermaid renderer
+	•	CMMF → Mermaid renderer
 Visualise content models for collaboration and documentation
-•	(In progress) CMS connectors
+	•	(In progress) CMS connectors
 Import/export models for platforms like Contentful, Sanity, and others
-•	(Planned) Diagramming integrations
+	•	(Planned) Diagramming integrations
 Export to tools like FigJam and Miro for team collaboration
 
 ⸻
 
 ## Our philosophy
 
-•	Structure creates clarity
-•	Clarity enables speed
-•	Speed without clarity creates problems
+	•	Structure creates clarity
+	•	Clarity enables speed
+	•	Speed without clarity creates problems
 
 Good content models are not just schemas — they are interfaces between teams.
 
@@ -97,10 +96,10 @@ Good content models are not just schemas — they are interfaces between teams.
 
 ## Who this is for
 
-•	Teams planning a headless CMS migration
-•	Organisations struggling with an existing implementation
-•	Agencies delivering headless solutions at scale
-•	Developers and strategists working on complex content systems
+	•	Teams planning a headless CMS migration
+	•	Organisations struggling with an existing implementation
+	•	Agencies delivering headless solutions at scale
+	•	Developers and strategists working on complex content systems
 
 ⸻
 
